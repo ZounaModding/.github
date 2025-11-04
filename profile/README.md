@@ -1,4 +1,4 @@
-# ZounaDecomp
+# ZounaModding
 
 Modding projects for your favorite Zouna Engine games!
 
